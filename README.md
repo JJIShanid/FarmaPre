@@ -1,6 +1,6 @@
 # 🌾 Farma: Smart Agriculture Assistant
 
-**Farma** is a web and mobile-based application designed to support farmers with intelligent crop management and prediction tools. Built using Angular for the frontend and powered by deep learning models (CNN), this project helps predict suitable crops, estimate yields, and recommend fertilizers based on soil and environmental inputs. The application is also extended to mobile using Flutter, ensuring accessibility for farmers on the go.
+**Farma** is a web and mobile-based application designed to support farmers with intelligent crop management and prediction tools.This Project was developed in hackathon in which we were runner ups. Built using Angular for the frontend and powered by deep learning models (CNN), this project helps predict suitable crops, estimate yields, and recommend fertilizers based on soil and environmental inputs. The application is also extended to mobile using Flutter, ensuring accessibility for farmers on the go.
 
 
 https://github.com/user-attachments/assets/cfafffac-aedd-40de-ac89-2e7c6241e3ad
